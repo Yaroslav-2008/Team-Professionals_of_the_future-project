@@ -10,7 +10,7 @@
 
 Свидерская Валерия - *lera267*
 
-Смирнов Ярослав –* Ceepward*
+Смирнов Ярослав – *Сeepward*
 
 **[Ссылка на командный репозиторий**](https://github.com/Yaroslav-2008/Team-Professionals_of_the_future-project)
 
