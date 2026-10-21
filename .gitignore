@@ -1,0 +1,19 @@
+# Скомпилированные файлы
+*.class
+*.exe
+
+# Зависимости
+node_modules/
+venv/
+
+# Файлы IDE
+.idea/
+.vscode/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы с секретами
+.env
+*secret*
